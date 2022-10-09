@@ -24,4 +24,5 @@ Hi 👋 I'm Jayakumar I like to explore interesting things, currently doing Web 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakumar03&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=Jayakumar03&icon=0&color=0)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
 <!-- made using https://prm.pushkaryadav.in -->
