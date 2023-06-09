@@ -1,9 +1,16 @@
 # Jayakumar
 Github intro pages
-<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Jayakumar </h1> </div>
+<div align="center"><h1> Hi, i am Jayakumar </h1> </div>
+
+<!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/>  -->
 
 # About Me
-Hi 👋 I'm Jayakumar I like to explore interesting things, currently doing Web Development
+## I'm Jayakumar, Currently learning Full stack web development.
+## I am keeping myself updated with lastest technologies and topics on career management, web development, Tech sector and pick-up new skill to build an colony on mars !!
+## Kidding !, Got to keep my job ![image](https://github.com/Jayakumar03/Jayakumar03/assets/86454250/a5235fb3-acb3-4684-961c-d6490f460214)
+
+## If you have any ideas on the aforementioned subjects. Feel free to leave a message or link.
+# Before that, "Live long and prosper"
 
 
 # Tech Stack
