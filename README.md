@@ -3,13 +3,12 @@
 # About Me
 ## I'm Jayakumar, Currently learning Full stack web development.
 
-## I am keeping myself updated with lastest technologies and topics on career management, web development, Tech sector and pick-up new skill to build an colony on mars !!
+I am keeping myself updated with lastest technologies and topics on career management, web development, Tech sector and pick-up new skill to build an colony on mars !!
+ Kidding !, Got to keep my job !
 
-## Kidding !, Got to keep my job !
+If you have any ideas on the aforementioned subjects. Feel free to leave a message or link.
 
-## If you have any ideas on the aforementioned subjects. Feel free to leave a message or link.
-
-## Before that, "Live long and prosper"
+ Before that, "Live long and prosper"
 
 
 
